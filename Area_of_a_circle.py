@@ -1,3 +1,3 @@
 r=int(input())
-a=3.14*(r**2)
+a=(r**2)*3.14
 print(a)
