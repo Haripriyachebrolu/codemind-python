@@ -6,6 +6,7 @@ while True:
         break
     else:
         a+=1
+
 b=n-1
 while True:
     if (str(b)==str(b)[::-1]):
